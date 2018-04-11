@@ -7,7 +7,7 @@ PLATFORM := sand
 MODULE_SRCS += \
 	$(LOCAL_DIR)/config.c \
 
-include  $(LOCAL_DIR)/product/$(TARGET_PRODUCT).mk
+include  $(LOCAL_DIR)/product/$(TRUSTY_REF_TARGET).mk
 
 include make/module.mk
 
