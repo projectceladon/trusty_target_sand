@@ -21,17 +21,6 @@
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#include <platform.h>
-#include <malloc.h>
-#include <string.h>
-#include <debug.h>
-
-
-#include <lwip/tcpip.h>
-
-#define LOCAL_TRACE 1
-
-
 void target_init(void) {
 }
 
