@@ -1,2 +1,1 @@
 SMP_MAX_CPUS = 1
-ATTKB_HECI = 1
