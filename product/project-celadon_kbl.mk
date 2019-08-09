@@ -1,1 +1,0 @@
-SMP_MAX_CPUS = 1
